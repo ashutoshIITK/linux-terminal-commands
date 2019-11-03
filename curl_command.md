@@ -28,5 +28,5 @@ It returns HTML code.
 ### Dowload response from a route
 	curl -o test.jpg http://website.download
 
-### Download to a JSOM
+### Download to a JSON
 	curl -o json_file.json http://website.address
